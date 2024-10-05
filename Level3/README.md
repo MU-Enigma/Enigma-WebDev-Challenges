@@ -1,37 +1,61 @@
-# Level 3 - Enigma Website Redesign
+## **Level 3: Complete Website Redesign (PS 3.1)**
 
-Redesign the Enigma Website Completely. Reimagine the Enigma website in any way you wish and implement a working prototype (For Reference: [Enigma Club Website](https://www.mu-enigma.org/))
+### Objective
+Redesign and implement a new version of the Enigma Club Website from scratch, creating a modern, functional, and aesthetically pleasing prototype.
 
-## Steps to Contribute
+### Problem Statement
+- Completely redesign the Enigma Club Website ([Website Link](https://www.mu-enigma.org/)).
+- The redesign should incorporate improvements in both functionality and design, with a focus on user experience.
 
-+ Fork the repo
-  
-+ Clone the forked repo to your local environment.
-  ```bash
-     git clone https://github.com/<your_username>/Hacktoberfest24
-  ```
-+ Navigate to the corresponding directory
-  ```bash
-    cd Hacktoberfest24/WebDev/Level3/
-  ```
-+ Create a folder with the same name as your Username
-  ```bash
-    mkdir <your_username>
-  ```
-+ Within the folder corresponding to the Level (i.e. Level3) create a folder with the same name as your username and include in it the following
-  
-  - All the files related to your website
-    
-  - A README.md detailing how to setup and run your website
- 
-  - If deployed, you can provide the link of the website.
-    
-+ Add your changes
-  ```bash
-    git add .
-  ```
-+ Commit your changes
-  ```bash
-  git commit -m "Message describing commit"
-  ```
-+ Open a Pull Request.
+**Main Website:** [Enigma Club Website](https://www.mu-enigma.org/)  
+**GitHub Code Link for the Website:** [Enigma Landerf Repository](https://github.com/dipyamanroy/enigma-landerf)  
+**Note:** All contributions should go to the current repository for the challenges.
+
+### What to Submit
+1. **Fork the Repo**
+   - Fork the repository to your own GitHub account.
+
+2. **Clone the Repo**
+   - Clone the forked repository to your local environment.
+   ```bash
+   git clone https://github.com/<your_username>/Enigma-WebDev-Challenges
+   ```
+
+3. **Navigate to the Correct Directory**
+   - Move into the Level 3 directory to work on your task:
+   ```bash
+   cd Enigma-WebDev-Challenges/Level3/
+   ```
+
+4. **Create a Folder with Your Username**
+   - Inside the `Level3` directory, create a new folder named after your GitHub username:
+   ```bash
+   mkdir <your_username>
+   ```
+
+5. **Redesign the Website**
+   - Implement a complete redesign of the Enigma Club Website using HTML, CSS, and JavaScript.
+   - Ensure the site is modern, functional, and aesthetically pleasing.
+
+6. **Add Your Submission**
+   - Inside your username's folder, include all files related to your redesigned website, including HTML, CSS, JavaScript, and any assets.
+   - Provide a `README.md` file that details how to set up and run the redesigned site.
+   - If the site is deployed, provide a link to the live version.
+
+7. **Add and Commit Your Changes**
+   - After adding your files, stage the changes:
+   ```bash
+   git add .
+   ```
+   - Commit your changes with a meaningful message:
+   ```bash
+   git commit -m "Added Level 3 complete website redesign by <your_username>"
+   ```
+
+8. **Push Your Changes and Open a Pull Request**
+   - Push your changes to your forked repository:
+   ```bash
+   git push origin main
+   ```
+   - Open a Pull Request (PR) to submit your work for review.
+

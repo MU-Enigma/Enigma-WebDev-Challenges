@@ -67,6 +67,12 @@ Welcome to the **Enigma WebDev Challenges**, a global initiative by **Enigma** a
 
 ---
 
+**Main Website:** [Enigma Club Website](https://www.mu-enigma.org/)  
+**GitHub Code Link for the Website:** [Enigma Landerf Repository](https://github.com/dipyamanroy/enigma-landerf)  
+**Note:** All contributions should go to the current repository for the challenges.
+
+---
+
 ## Community Impact
 
 The **Enigma WebDev Challenges** is not just a coding initiative; it's a platform for fostering community growth and collaboration. By participating, you not only enhance your skills but also contribute to a project that serves the broader community. The enhancements you make to the **Enigma Club Website** will benefit students, members, and visitors, creating a more engaging and informative online presence for all.
