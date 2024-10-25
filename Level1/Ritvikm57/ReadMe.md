@@ -13,6 +13,6 @@ Ran the command
 docker run hello-world
 ```
 
-![Docker](Ritvikm57/Docker.png)
+![Docker](Docker.png)
 
-![Terminal](Ritvikm57/Terminal.png)
+![Terminal](Terminal.png)
