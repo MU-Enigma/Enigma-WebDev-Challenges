@@ -2,7 +2,7 @@
 
 ## 1 Downloading Docker
 
-Download docker from [Docker Website](https://www.docker.com).
+Downloaded docker from [Docker Website](https://www.docker.com).
 
 
 ## 2 Running "hello-world" Docker
