@@ -55,7 +55,7 @@ Build a functional Events Calendar page where users can view upcoming events and
 8. **Push Your Changes and Open a Pull Request**
    - Push your changes to your forked repository:
    ```bash
-   git push origin main
+   git push origin master
    ```
    - Open a Pull Request (PR) to submit your work for review.
 
