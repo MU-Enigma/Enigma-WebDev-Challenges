@@ -40,7 +40,7 @@ Implement a blog post system for the Enigma Club Website to allow the team to ea
 6. **Push Your Changes**
    - Push your changes to the main repository:
    ```bash
-   git push origin main
+   git push origin master
    ```
 
 7. **Open a Pull Request**
