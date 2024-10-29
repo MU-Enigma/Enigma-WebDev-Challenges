@@ -55,7 +55,7 @@ Redesign and implement a new version of the Enigma Club Website from scratch, cr
 8. **Push Your Changes and Open a Pull Request**
    - Push your changes to your forked repository:
    ```bash
-   git push origin main
+   git push origin master
    ```
    - Open a Pull Request (PR) to submit your work for review.
 
