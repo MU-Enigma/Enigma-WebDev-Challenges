@@ -9,7 +9,7 @@ Build a functional Events Calendar page where users can view upcoming events and
 - The calendar should be interactive and display event information dynamically.
 
 **Main Website:** [Enigma Club Website](https://www.mu-enigma.org/)  
-**GitHub Code Link for the Website:** [Enigma Landerf Repository](https://github.com/dipyamanroy/enigma-landerf)  
+**GitHub Code Link for the Website:** [Enigma Lander Repository](https://github.com/dipyamanroy/enigma-lander)  
 **Note:** All contributions should go to the current repository for the challenges.
 
 ### What to Submit
